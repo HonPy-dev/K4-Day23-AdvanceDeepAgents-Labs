@@ -1,0 +1,170 @@
+[
+  {
+    "n": 1,
+    "id": "2411.14499",
+    "url": "https://huggingface.co/papers/2411.14499",
+    "title": "Understanding World or Predicting Future? A Comprehensive Survey of World Models",
+    "date": "2024-11-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "2006.16712",
+    "url": "https://arxiv.org/abs/2006.16712",
+    "title": "Model-based Reinforcement Learning: A Survey",
+    "date": "2022-03-31",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "Sutton 1990 ICML",
+    "url": "https://mlanthology.org/icml/1990/sutton1990icml-integrated/",
+    "title": "Integrated Architectures for Learning, Planning, and Reacting Based on Approximating Dynamic Programming",
+    "date": "1990",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "1803.10122",
+    "url": "https://arxiv.org/abs/1803.10122",
+    "title": "World Models",
+    "date": "2018-03-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "1811.04551",
+    "url": "https://arxiv.org/abs/1811.04551",
+    "title": "Learning Latent Dynamics for Planning from Pixels",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "1911.08265",
+    "url": "https://www.nature.com/articles/s41586-020-03051-4",
+    "title": "Mastering Atari, Go, chess and shogi by planning with a learned model",
+    "date": "2020-12-23",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "Sora technical report",
+    "url": "https://openai.com/index/video-generation-models-as-world-simulators/",
+    "title": "Video generation models as world simulators",
+    "date": "2024-02-15",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "arXiv:2402.15391",
+    "url": "https://arxiv.org/abs/2402.15391",
+    "title": "Genie: Generative Interactive Environments",
+    "date": "2024-02-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "arXiv:2406.03520",
+    "url": "https://arxiv.org/abs/2406.03520",
+    "title": "VideoPhy: Evaluating Physical Commonsense for Video Generation",
+    "date": "2024-06-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "pmlr-v205-wu23c",
+    "url": "https://proceedings.mlr.press/v205/wu23c.html",
+    "title": "DayDreamer: World Models for Physical Robot Learning",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2404.12377",
+    "url": "https://arxiv.org/abs/2404.12377",
+    "title": "RoboDreamer: Learning Compositional World Models for Robot Imagination",
+    "date": "2024-04-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2405.15223",
+    "url": "https://arxiv.org/abs/2405.15223",
+    "title": "iVideoGPT: Interactive VideoGPTs are Scalable World Models",
+    "date": "2024-05-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2304.13723",
+    "url": "https://arxiv.org/abs/2304.13723",
+    "title": "A Control-Centric Benchmark for Video Prediction",
+    "date": "2023-04-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2502.20694",
+    "url": "https://arxiv.org/html/2502.20694",
+    "title": "WorldModelBench: Judging Video Generation Models As World Models",
+    "date": "2025-02-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2411.07690",
+    "url": "https://arxiv.org/abs/2411.07690",
+    "title": "World Models: The Safety Perspective",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "1912.01603",
+    "url": "https://arxiv.org/abs/1912.01603",
+    "title": "Dream to Control: Learning Behaviors by Latent Imagination",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2301.08243",
+    "url": "https://arxiv.org/abs/2301.08243",
+    "title": "Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture",
+    "date": "2023-01-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "2506.09985",
+    "url": "https://arxiv.org/abs/2506.09985",
+    "title": "V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning",
+    "date": "2025-06-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "arXiv:2309.17080",
+    "url": "https://arxiv.org/abs/2309.17080",
+    "title": "GAIA-1: A Generative World Model for Autonomous Driving",
+    "date": "2023-09-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 20,
+    "id": "2406.14540",
+    "url": "https://arxiv.org/abs/2406.14540",
+    "title": "IRASim: A Fine-Grained World Model for Robot Manipulation",
+    "date": "2025-07-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 21,
+    "id": "2506.04363",
+    "url": "https://arxiv.org/abs/2506.04363",
+    "title": "WorldPrediction: A Benchmark for High-level World Modeling and Long-horizon Procedural Planning",
+    "date": "2025-06-04",
+    "source": "arxiv"
+  }
+]

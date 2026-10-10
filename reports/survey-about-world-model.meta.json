@@ -1,0 +1,25 @@
+{
+  "topic": "survey about world model",
+  "model": "openai/gpt-6-luna",
+  "elapsed_s": 644.0,
+  "subagent_calls": 5,
+  "tool_calls": {
+    "edit_file": 1,
+    "execute": 4,
+    "ls": 3,
+    "read_file": 8,
+    "task": 5,
+    "write_file": 2,
+    "write_todos": 3
+  },
+  "tokens": {
+    "input": 312142,
+    "output": 8019
+  },
+  "n_sources": 21,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

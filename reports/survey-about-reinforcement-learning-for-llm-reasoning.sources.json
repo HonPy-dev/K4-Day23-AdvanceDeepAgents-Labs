@@ -1,0 +1,122 @@
+[
+  {
+    "n": 1,
+    "id": "2402.03300",
+    "url": "https://arxiv.org/html/2402.03300",
+    "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+    "date": "2024-04-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2501.12948",
+    "url": "https://arxiv.org/html/2501.12948v1",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "date": "2025-01-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "s41586-025-09422-z",
+    "url": "https://www.nature.com/articles/s41586-025-09422-z",
+    "title": "DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning",
+    "date": "2025-09-17",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "OpenAI research article",
+    "url": "https://openai.com/index/improving-mathematical-reasoning-with-process-supervision/",
+    "title": "Improving mathematical reasoning with process supervision | OpenAI",
+    "date": "2023-05-31",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "arXiv:2410.08146",
+    "url": "https://arxiv.org/abs/2410.08146",
+    "title": "Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning",
+    "date": "2024-10-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "arXiv:2412.06559",
+    "url": "https://arxiv.org/abs/2412.06559",
+    "title": "ProcessBench: Identifying Process Errors in Mathematical Reasoning",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2412.16145",
+    "url": "https://arxiv.org/abs/2412.16145",
+    "title": "Offline Reinforcement Learning for LLM Multi-Step Reasoning",
+    "date": "2024-12-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2503.12854",
+    "url": "https://arxiv.org/abs/2503.12854",
+    "title": "Enhancing LLM Reasoning with Iterative DPO: A Comprehensive Empirical Investigation",
+    "date": "2025-03-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2406.01462",
+    "url": "https://arxiv.org/abs/2406.01462",
+    "title": "The Importance of Online Data: Understanding Preference Fine-tuning via Coverage",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2504.13837",
+    "url": "https://arxiv.org/abs/2504.13837",
+    "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+    "date": "2025-04-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2503.14476",
+    "url": "https://arxiv.org/html/2503.14476",
+    "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+    "date": "2025-05-20",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "2508.08221",
+    "url": "https://huggingface.co/papers/2508.08221",
+    "title": "Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning",
+    "date": "2025-08-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "2512.07795",
+    "url": "https://huggingface.co/papers/2512.07795",
+    "title": "ReasonBENCH: Benchmarking the (In)Stability of LLM Reasoning",
+    "date": "2025-12-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "2502.12659",
+    "url": "https://huggingface.co/papers/2502.12659",
+    "title": "The Hidden Risks of Large Reasoning Models: A Safety Assessment of R1",
+    "date": "2025-02-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "2504.20571",
+    "url": "https://arxiv.org/abs/2504.20571",
+    "title": "Reinforcement Learning for Reasoning in Large Language Models with One Training Example",
+    "date": "2025-04-29",
+    "source": "arxiv"
+  }
+]

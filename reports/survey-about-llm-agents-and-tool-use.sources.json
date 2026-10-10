@@ -1,0 +1,138 @@
+[
+  {
+    "n": 1,
+    "id": "arXiv:2205.00445",
+    "url": "https://arxiv.org/abs/2205.00445",
+    "title": "MRKL Systems A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "arXiv:2210.03629",
+    "url": "https://arxiv.org/abs/2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "date": "2023-03-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "arXiv:2302.04761",
+    "url": "https://arxiv.org/abs/2302.04761",
+    "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+    "date": "2023-02-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "arXiv:2307.16789",
+    "url": "https://arxiv.org/abs/2307.16789",
+    "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "API-Bank paper",
+    "url": "https://aclanthology.org/2023.emnlp-main.187.pdf",
+    "title": "API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "arXiv:2406.12045",
+    "url": "https://arxiv.org/abs/2406.12045",
+    "title": "τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "PMLR volume 267, paper patil25a",
+    "url": "https://proceedings.mlr.press/v267/patil25a.html",
+    "title": "The Berkeley Function Calling Leaderboard (BFCL): From Tool Use to Agentic Evaluation of Large Language Models",
+    "date": "2025-10-06",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "arXiv:2308.03688",
+    "url": "https://arxiv.org/abs/2308.03688",
+    "title": "AgentBench: Evaluating LLMs as Agents",
+    "date": "2025-10-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "arXiv:2307.13854",
+    "url": "https://arxiv.org/abs/2307.13854",
+    "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+    "date": "2023-07-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "arXiv:2403.02691",
+    "url": "https://arxiv.org/html/2403.02691v1",
+    "title": "INJECAGENT: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents",
+    "date": "2024-03-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "arXiv:2412.14470",
+    "url": "https://arxiv.org/pdf/2412.14470",
+    "title": "AGENT-SAFETYBENCH: Evaluating the Safety of LLM Agents",
+    "date": "2024-12-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "OWASP LLM Top 10 v2025",
+    "url": "https://genai.owasp.org/download/43299/",
+    "title": "OWASP Top 10 for LLM Applications 2025",
+    "date": "2024-11-18",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "arXiv:2303.17580",
+    "url": "https://arxiv.org/abs/2303.17580",
+    "title": "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face",
+    "date": "2023-03-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "OpenAI Agents API Functions guide",
+    "url": "https://developers.openai.com/api/docs/guides/agents-api/tools/functions",
+    "title": "Functions",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "OpenAI Agents SDK Tools documentation",
+    "url": "https://openai.github.io/openai-agents-python/tools/",
+    "title": "Tools - OpenAI Agents SDK",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "OpenAI Agents orchestration guide",
+    "url": "https://developers.openai.com/api/docs/guides/agents/orchestration",
+    "title": "Orchestration and handoffs",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "API-Bank HF paper record",
+    "url": "https://huggingface.co/papers/2304.08244",
+    "title": "API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs",
+    "date": "2023-04-14",
+    "source": "hf-search"
+  }
+]

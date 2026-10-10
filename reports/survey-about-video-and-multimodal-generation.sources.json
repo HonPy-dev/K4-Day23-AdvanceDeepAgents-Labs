@@ -1,0 +1,186 @@
+[
+  {
+    "n": 1,
+    "id": "OpenAI Sora technical report",
+    "url": "https://openai.com/index/video-generation-models-as-world-simulators/",
+    "title": "Video generation models as world simulators",
+    "date": "2024-02-15",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "arXiv:2401.03048",
+    "url": "https://arxiv.org/abs/2401.03048",
+    "title": "Latte: Latent Diffusion Transformer for Video Generation",
+    "date": "2024-01-05",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "arXiv:2311.15127",
+    "url": "https://arxiv.org/abs/2311.15127",
+    "title": "Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets",
+    "date": "2023-11-25",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "arXiv:2412.20404",
+    "url": "https://arxiv.org/abs/2412.20404",
+    "title": "Open-Sora: Democratizing Efficient Video Production for All",
+    "date": "2024-12-29",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "PMLR volume 235, paper kondratyuk24a",
+    "url": "https://proceedings.mlr.press/v235/kondratyuk24a.html",
+    "title": "VideoPoet: A Large Language Model for Zero-Shot Video Generation",
+    "date": "2024-07-08",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "arXiv:2408.06072",
+    "url": "https://arxiv.org/abs/2408.06072",
+    "title": "CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer",
+    "date": "2025-03-26",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "arXiv:2410.21264",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/97c903fbf21a7d863af2015d8803ca8f-Abstract-Conference.html",
+    "title": "LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "arXiv:2507.08801",
+    "url": "https://arxiv.org/html/2507.08801v2",
+    "title": "Lumos-1: On Autoregressive Video Generation with Discrete Diffusion from a Unified Model Perspective",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2412.04432",
+    "url": "https://huggingface.co/papers/2412.04432",
+    "title": "Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation",
+    "date": "2024-12-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "arXiv:2306.02018",
+    "url": "https://arxiv.org/abs/2306.02018",
+    "title": "VideoComposer: Compositional Video Synthesis with Motion Controllability",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "arXiv:2401.01827",
+    "url": "https://arxiv.org/abs/2401.01827",
+    "title": "Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions",
+    "date": "2024-01-03",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "arXiv:2312.03641",
+    "url": "https://arxiv.org/abs/2312.03641",
+    "title": "MotionCtrl: A Unified and Flexible Motion Controller for Video Generation",
+    "date": "2024-07-16",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "arXiv:2412.02700",
+    "url": "https://arxiv.org/abs/2412.02700",
+    "title": "Motion Prompting: Controlling Video Generation with Motion Trajectories",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "arXiv:2402.04324",
+    "url": "https://arxiv.org/abs/2402.04324",
+    "title": "ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2402.04324",
+    "url": "https://huggingface.co/papers/2402.04324",
+    "title": "ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation",
+    "date": "2024-02-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "arXiv:2509.08519",
+    "url": "https://arxiv.org/abs/2509.08519",
+    "title": "HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning",
+    "date": "2025-09-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "arXiv:2503.07598",
+    "url": "https://arxiv.org/abs/2503.07598",
+    "title": "VACE: All-in-One Video Creation and Editing",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "arXiv:2503.01739",
+    "url": "https://arxiv.org/html/2503.01739",
+    "title": "VideoUFO: A Million-Scale User-Focused Dataset for Text-to-Video Generation",
+    "date": "2025-05-13",
+    "source": "web"
+  },
+  {
+    "n": 19,
+    "id": "arXiv:2407.01094",
+    "url": "https://arxiv.org/html/2407.01094v1",
+    "title": "Evaluation of Text-to-Video Generation Models: A Dynamics Perspective",
+    "date": "2024-07-01",
+    "source": "web"
+  },
+  {
+    "n": 20,
+    "id": "arXiv:2210.02396",
+    "url": "https://export.arxiv.org/pdf/2210.02396v2.pdf",
+    "title": "Temporally Consistent Transformers for Video Generation",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 21,
+    "id": "arXiv:2311.17982",
+    "url": "https://huggingface.co/papers/2311.17982",
+    "title": "VBench: Comprehensive Benchmark Suite for Video Generative Models",
+    "date": "2023-11-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 22,
+    "id": "arXiv:2406.03520",
+    "url": "https://nips.cc/virtual/2024/103544",
+    "title": "VideoPhy: Evaluating Physical Commonsense for Video Generation",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 23,
+    "id": "arXiv:2407.05965",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/74eed5f568354c2e77dd9b018f38a9d4-Paper-Datasets_and_Benchmarks_Track.pdf",
+    "title": "T2VSafetyBench: Evaluating the Safety of Text-to-Video Generative Models",
+    "date": "2024-12-10",
+    "source": "web"
+  }
+]

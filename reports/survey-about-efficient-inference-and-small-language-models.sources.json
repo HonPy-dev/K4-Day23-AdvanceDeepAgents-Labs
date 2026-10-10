@@ -1,0 +1,146 @@
+[
+  {
+    "n": 1,
+    "id": "2404.14219",
+    "url": "https://arxiv.org/abs/2404.14219",
+    "title": "Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone",
+    "date": "2024-04-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "Microsoft Research blog page, Phi-2",
+    "url": "https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/",
+    "title": "Phi-2: The surprising power of small language models - Microsoft Research",
+    "date": "2023-12-12",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2502.02737",
+    "url": "https://arxiv.org/abs/2502.02737",
+    "title": "SmolLM2: When Smol Goes Big — Data-Centric Training of a Small Language Model",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2210.17323",
+    "url": "https://arxiv.org/abs/2210.17323",
+    "title": "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers",
+    "date": "2022-10-31",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2402.02750",
+    "url": "https://arxiv.org/abs/2402.02750",
+    "title": "KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache",
+    "date": "2024-02-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "pmlr-v235-cai24b",
+    "url": "https://proceedings.mlr.press/v235/cai24b.html",
+    "title": "Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads",
+    "date": "2024-07-08",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2309.06180",
+    "url": "https://arxiv.org/abs/2309.06180",
+    "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+    "date": "2023-09-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2502.04420",
+    "url": "https://arxiv.org/abs/2502.04420",
+    "title": "KVTuner: Sensitivity-Aware Layer-Wise Mixed-Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference",
+    "date": "2025-02-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2403.02310",
+    "url": "https://arxiv.org/abs/2403.02310",
+    "title": "Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve",
+    "date": "2024-03-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "MLCommons small-LLM benchmark announcement",
+    "url": "https://mlcommons.org/2025/09/small-llm-inference-5-1/",
+    "title": "MLPerf Inference 5.1: Benchmarking Small LLMs with Llama3.1-8B",
+    "date": "2025-09-09",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "NVIDIA Triton Inference Server GenAI-Perf documentation",
+    "url": "https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/perf_analyzer/genai-perf/README.html",
+    "title": "GenAI-Perf",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "2506.21901",
+    "url": "https://arxiv.org/abs/2506.21901",
+    "title": "A Survey of LLM Inference Systems",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2412.15115",
+    "url": "https://arxiv.org/abs/2412.15115",
+    "title": "Qwen2.5 Technical Report",
+    "date": "2025-01-03",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2301.00774",
+    "url": "https://arxiv.org/abs/2301.00774",
+    "title": "SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot",
+    "date": "2023-01-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2205.14135",
+    "url": "https://arxiv.org/abs/2205.14135",
+    "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
+    "date": "2022-06-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2406.03243",
+    "url": "https://arxiv.org/abs/2406.03243",
+    "title": "Llumnix: Dynamic Scheduling for Large Language Model Serving",
+    "date": "2024-06-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "vLLM Documentation",
+    "url": "https://docs.vllm.ai/",
+    "title": "Welcome to vLLM",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "2411.00136",
+    "url": "https://huggingface.co/papers/2411.00136",
+    "title": "LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators",
+    "date": "2024-10-31",
+    "source": "hf-search"
+  }
+]
